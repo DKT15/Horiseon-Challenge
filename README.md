@@ -11,7 +11,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-The following image is a screenshot of the website. It starts with a navigation bar at the top with three options on the far right (they don't currently link to anything.) and a logo of the website of the far left. There is then a large image of a team working together. There are then 3 sections, 1 for each service Horiseon provides: Search Engine Optimization, Online Reputation Mnagement and Social Media Marketing. On the right of the three sections, there are three additional services Horiseon provide they are: Lead Generation, Brand Awareness and Cost Management. The footer of the wesbite is Horiseon's copyright. (assets/images/website-image.png)
+The following image is a screenshot of the website. It starts with a navigation bar at the top with three options on the far right (they don't currently link to anything.) and a logo of the website of the far left. There is then a large image of a team working together. There are then 3 sections, 1 for each service Horiseon provides: Search Engine Optimization, Online Reputation Mnagement and Social Media Marketing. On the right of the three sections, there are three additional services Horiseon provide they are: Lead Generation, Brand Awareness and Cost Management. The footer of the wesbite is Horiseon's copyright. (assets/images/website-image.png?raw=true "Horiseon Website")
 
 
 ## Credits

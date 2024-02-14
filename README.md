@@ -31,7 +31,7 @@ The following image is a screenshot of the website. It starts with a navigation 
 
 ## Deployment
 
-You can access the website with this link.(https://dkt15.github.io/Horiseon-Challenge/)
+You can access the website with this link [here](https://dkt15.github.io/Horiseon-Challenge/)
 
 ## Contributing
 
